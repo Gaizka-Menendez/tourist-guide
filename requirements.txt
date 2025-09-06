@@ -1,0 +1,9 @@
+google-genai
+langchain
+langchain-google-genai
+python-dotenv
+chromadb
+faiss-cpu
+ipykernel
+langgraph
+pypdf2

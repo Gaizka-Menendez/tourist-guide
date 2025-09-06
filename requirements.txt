@@ -7,3 +7,4 @@ faiss-cpu
 ipykernel
 langgraph
 pypdf2
+langchain_text_splitters

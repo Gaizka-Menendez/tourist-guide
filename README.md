@@ -81,4 +81,4 @@ The agent was tested in different scenarios:
 - **Weather queries**: “What will the weather be in Barcelona on 2025-09-10?” → forecast returned from API.  
 - **Out-of-scope queries**: “What to see in Madrid?” → polite refusal explaining its scope.  
 
-Results confirm the system responds **accurately, concisely, and within domain**.
+Results confirm the system responds accurately, concisely, and within domain.

@@ -13,3 +13,4 @@ requests
 sentence-transformers
 hf_xet
 ipywidgets
+rank_bm25

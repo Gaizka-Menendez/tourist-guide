@@ -14,12 +14,6 @@ It can answer tourism-related questions only about **Barcelona, Bilbao, Galicia,
 - Memory with `MemorySaver` and `thread_id`
 - Domain restrictions: refuses non-tourism or outside destinations
 
-## 🛠️ Setup
-```bash
-git clone <repo>
-cd <repo>
-pip install -r requirements.txt
-
 
 
 ## SECTIONS:
@@ -82,3 +76,15 @@ The agent was tested in different scenarios:
 - **Out-of-scope queries**: “What to see in Madrid?” → polite refusal explaining its scope.  
 
 Results confirm the system responds accurately, concisely, and within domain.
+
+
+
+## 🛠️ Setup
+```bash
+git clone <repo>
+cd <repo>
+pip install -r requirements.txt
+
+
+
+
